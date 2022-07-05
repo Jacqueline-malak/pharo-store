@@ -1,0 +1,16 @@
+.main{
+    width: 100%;
+    height: auto;
+    background-color: rgb(0, 0, 0);
+}
+.container{
+    width: 90%;
+    height: auto;
+    margin-left: 5%;
+    background-color: rgb(180, 192, 8);
+}
+.Indexcontainer{
+    width: 100%;
+    height: auto;
+    background-image: url("/public/radioPharoh.png");
+}
